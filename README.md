@@ -19,5 +19,5 @@ Please read the [contribution guidelines](https://github.com/opencv/opencv/wiki/
 * Clean up "oops" commits before submitting;
 * Follow the [coding style guide](https://github.com/opencv/opencv/wiki/Coding_Style_Guide).
 
-####Path for image processing demos
+#### Path for image processing demos
 opencv/samples/python/tutorial_code/imgProc/
